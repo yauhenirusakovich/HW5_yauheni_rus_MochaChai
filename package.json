@@ -1,0 +1,24 @@
+{
+  "name": "students_homeworks_private_repo",
+  "version": "1.0.0",
+  "description": "## How to push you branch to this repo:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mocha-test": "mocha --config .mocharc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.45",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
